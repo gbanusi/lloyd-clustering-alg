@@ -2,7 +2,7 @@
 
 Lloyds clustering algorithm implemented in python
 
-Implementation from: https://datasciencelab.wordpress.com/2013/12/12/clustering-with-k-means-in-python/
+Implementation idea: https://www.cs.rit.edu/~rpj/courses/bic2/lectures/kmeansanalysis.pdf
 
 Comparison with python sklearn.cluster - kmenas
 
